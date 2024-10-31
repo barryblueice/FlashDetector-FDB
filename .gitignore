@@ -1,0 +1,7 @@
+/history
+
+*.code-workspace
+
+**/*.SET
+
+*.SET
